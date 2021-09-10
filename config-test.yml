@@ -1,2 +1,7 @@
-config:
-  info: version=1
+server:
+  port: 1001
+  
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:7001/eureka
