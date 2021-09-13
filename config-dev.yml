@@ -1,5 +1,5 @@
 config:
-  info: 2222
+  info: 6666
 spring:
   application:
     name:  cloud-config-center #注册进Eureka服务器的微服务名
